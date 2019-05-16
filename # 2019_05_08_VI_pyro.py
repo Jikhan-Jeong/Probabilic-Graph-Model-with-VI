@@ -5,6 +5,12 @@ Created on Wed May  8 16:07:33 2019
 @author: Jikhan Jeong
 """
 
+# download method for HPC
+
+http://docs.pyro.ai/en/0.2.1-release/installation.html
+
+
+
 # 2019_05_08_VI_pyro_intro
 
 # pyro practice
