@@ -2,8 +2,10 @@
 Probabilic Graph Model with VI
 
 
-# Pyro with Pytorch
-# Edward with Tensorflow
-# Pymc3 with Theano
+Pyro with Pytorch
+
+Edward with Tensorflow
+
+Pymc3 with Theano
 
 
